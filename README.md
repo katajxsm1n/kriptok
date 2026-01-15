@@ -1,4 +1,4 @@
-# kriptok
+
 # Készült: 2026.01.15.
 # Írta: Lázár Kata
 # Cím: Kriptovaluták veszélyei (összefoglaló)
