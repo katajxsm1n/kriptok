@@ -1,7 +1,7 @@
 # kriptok
-Készült: 2026.01.15.
-Írta: Lázár Kata
-Cím: Kriptovaluták veszélyei összefoglaló
+# Készült: 2026.01.15.
+# Írta: Lázár Kata
+# Cím: Kriptovaluták veszélyei (összefoglaló)
 
 A projektemet iskolai kereteken belül, költségvetés nélkül készítettem. 
 Idő, cél, és költségvetés  szemléletében egy egyszerű és rövid projektnek lehet sorolni. 
@@ -13,6 +13,9 @@ A projekt Trelloban, videón, Word-ön, Google Formson és prezentációkon kere
 A projektemhez tartozott: kérdőív és esettanulmány.
 A projektemhez tartozó kérdőív több embert magába vont, papíron egyedül készítettem,
  de volt egy külsős személy aki kisebb munkálatokban segitséget adott(a kérdőív terjesztése és prezentációm kinézete.)
+A projektet egyszerűen lehet használni, de nincs adatbázisa, a weboldalhoz hozzáférés szükséges. A Google Formshoz pedig link által, kéréssel
+bárhogy hozzá lehet férni és kitölteni.
+GitHub nem volt hozzá, ezt utólag csináltam meg. 
 
 Projektcél: a Kriptók világának ismertetése weblapokon keresztül.
 Projekttermék: Weblap és kérdőív egyszerű hozzáféréssel.
